@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,45:dc5f66,100:f6d365&text=Zifa%20AI&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%20companions%20that%20remember,%20adapt,%20and%20grow%20with%20you&descAlignY=58&descSize=18">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f8fafc,45:dc5f66,100:f6d365&text=Zifa%20AI&fontColor=1f2328&fontSize=58&fontAlignY=38&desc=AI%20companions%20that%20remember,%20adapt,%20and%20grow%20with%20you&descAlignY=58&descSize=18" alt="Zifa AI" width="100%">
-  </picture>
+  <img src="../assets/zifa-ai-banner.svg" alt="Zifa AI - AI companions that remember, adapt, and grow with you" width="100%">
 </p>
 
 <p align="center">
