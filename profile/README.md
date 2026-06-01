@@ -1,72 +1,101 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,55:dc5f66,100:f6d365&text=Zifa%20AI&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%20companions%20with%20memory,%20emotion,%20and%20agency&descAlignY=58&descSize=18">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f8fafc,55:dc5f66,100:f6d365&text=Zifa%20AI&fontColor=1f2328&fontSize=58&fontAlignY=38&desc=AI%20companions%20with%20memory,%20emotion,%20and%20agency&descAlignY=58&descSize=18" alt="Zifa AI" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,45:dc5f66,100:f6d365&text=Zifa%20AI&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%20companions%20that%20remember,%20adapt,%20and%20grow%20with%20you&descAlignY=58&descSize=18">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f8fafc,45:dc5f66,100:f6d365&text=Zifa%20AI&fontColor=1f2328&fontSize=58&fontAlignY=38&desc=AI%20companions%20that%20remember,%20adapt,%20and%20grow%20with%20you&descAlignY=58&descSize=18" alt="Zifa AI" width="100%">
   </picture>
 </p>
 
 <p align="center">
-  <strong>Building AI companions and the agent technology behind long-term human-AI relationships.</strong>
+  <strong>AI companion products and agent infrastructure for long-term human-AI relationships.</strong>
 </p>
 
 <p align="center">
-  AI companions
+  Companion AI
   ·
   Emotional agents
   ·
   Long-term memory
   ·
-  Personalized interaction
+  Multimodal interaction
   ·
-  Open source coming soon
+  Personalized growth
 </p>
 
 ---
 
-## What We Are Building
+## Mission
 
-Zifa AI is building AI companion products and the underlying agent stack for emotionally intelligent, long-running human-AI relationships.
+Zifa AI is building AI companions that can remember, understand, adapt, and grow with people over time.
 
-We believe the next generation of AI companions should be able to remember, understand, adapt, and grow with people over time. That requires more than chat completion. It requires memory, personality, emotional context, multimodal interaction, safety boundaries, and agent systems designed for continuity.
+The future of AI companionship is not a single chatbot session. It is a long-running relationship shaped by memory, emotion, personality, context, safety, and agency. Zifa AI develops both companion products and the technical systems that make persistent, emotionally intelligent agents possible.
 
-## Product Direction
+## Products
 
-Our work focuses on companion experiences where AI can support:
+Companion experiences we are building toward:
 
-- daily conversation and emotional presence
-- personalized companionship over long time horizons
-- character and roleplay interaction
-- coaching, reflection, and self-understanding
-- proactive, context-aware agent behavior
-- safer handling of intimate and sensitive user context
+### Zifa Companion
 
-## Technology Stack
+A personalized AI companion for daily conversation, emotional presence, roleplay, reflection, and long-term relationship continuity.
 
-Zifa AI is developing a family of agent technologies for AI companionship:
+### Zifa Agent Platform
 
-- **Companion agents**: agent behavior, personality, planning, and interaction loops
-- **Emotional memory**: long-term memory for feelings, relationships, preferences, and meaningful moments
-- **Relationship modeling**: continuity across trust, familiarity, attachment, boundaries, and repair
-- **Multimodal interaction**: voice, text, image, and real-time companion experiences
-- **Personalization**: adaptive user models and context-aware responses
-- **Safety and control**: user-visible memory, consent, forgetting, and sensitive-context policies
+An agent platform for building companion-style products with persistent memory, personality, proactive behavior, multimodal interaction, and user-controlled personalization.
+
+### Zifa Lab
+
+Research and prototypes for emotionally intelligent agents, companion evaluation, memory behavior, voice interaction, and long-horizon personalization.
+
+## Core Technology
+
+Zifa AI is developing a companion-agent stack across several layers:
+
+### Companion Agent Runtime
+
+Agent loops, personality state, planning, tool use, proactive interaction, and continuity across sessions.
+
+### Emotional Memory
+
+Long-term memory for feelings, relationships, preferences, conflicts, meaningful moments, and recurring emotional patterns.
+
+### Relationship Modeling
+
+Models for trust, familiarity, attachment, boundaries, repair, user comfort, and the evolving relationship between a person and an AI companion.
+
+### Multimodal Companion Interface
+
+Voice, text, image, and real-time interaction patterns for companions that feel present rather than transactional.
+
+### Personalization and Safety
+
+User-visible memory, consent, forgetting, sensitive-context handling, adaptive preferences, and guardrails for intimate AI experiences.
 
 ## Open Source
 
-We are preparing selected infrastructure components for open source release.
+Selected infrastructure components will be released as open source projects.
 
 | Project | Description | Status |
 | --- | --- | --- |
-| [ZifaMem](https://github.com/zifacorp/zifamem) | Long-term emotional memory framework for AI agents and companions | Coming soon |
+| [ZifaMem](https://github.com/zifacorp/zifamem) | Emotional long-term memory framework for AI agents and companions | Coming soon |
 
 ## ZifaMem
 
 [ZifaMem](https://github.com/zifacorp/zifamem) is the first public infrastructure project from Zifa AI.
 
-It is focused on the memory layer of AI companionship: helping agents remember not only facts, but also emotionally meaningful moments, relationship context, evolving preferences, and recurring patterns across conversations.
+It focuses on the memory layer of AI companionship: helping agents remember not only facts, but also emotional context, relationship history, evolving preferences, and meaningful moments across time.
+
+## Evaluation Direction
+
+We care about evaluating companion agents beyond short-term answer quality:
+
+- emotional continuity across conversations
+- long-term memory precision and usefulness
+- consistency of personality and relationship state
+- safe handling of sensitive or intimate memories
+- proactive behavior quality
+- user control over what is remembered and forgotten
 
 ---
 
 <p align="center">
-  <strong>For AI companions that remember, adapt, and stay emotionally present.</strong>
+  <strong>For AI companions that stay present beyond the conversation window.</strong>
 </p>
