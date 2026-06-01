@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zifacorp/.github/main/assets/zifa-ai-banner.svg" alt="Zifa AI - AI companions that remember, adapt, and grow with you" width="100%">
+  <img src="https://raw.githubusercontent.com/zifacorp/.github/main/assets/zifa-ai-banner.png" alt="Zifa AI - AI companions that remember, adapt, and grow with you" width="100%">
 </p>
 
 <p align="center">
