@@ -1,4 +1,6 @@
-![Zifa AI - AI companions that remember, adapt, and grow with you](../assets/zifa-ai-banner.png)
+<p align="center">
+  <img src="https://github.com/zifacorp/.github/releases/download/profile-assets-v1/zifa-ai-banner.png" alt="Zifa AI - AI companions that remember, adapt, and grow with you" width="100%">
+</p>
 
 <p align="center">
   <strong>AI companion products and agent infrastructure for long-term human-AI relationships.</strong>
