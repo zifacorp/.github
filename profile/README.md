@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="../assets/zifa-ai-banner.png" alt="Zifa AI - AI companions that remember, adapt, and grow with you" width="100%">
-</p>
+![Zifa AI - AI companions that remember, adapt, and grow with you](../assets/zifa-ai-banner.png)
 
 <p align="center">
   <strong>AI companion products and agent infrastructure for long-term human-AI relationships.</strong>
